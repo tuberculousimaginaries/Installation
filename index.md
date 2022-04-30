@@ -42,15 +42,15 @@ One final note: I have attempted to short circuit the spectacular exploitation o
 3. Images will be selected on an _ad hoc_ basis from the corpus, with care to show the medical doctors and nurses more so than the patients. When an image is selected, it is flagged in the folder (for ease of citation later) and fitted as best into the projector template. (This is done by a case by basis). The image, once framed in this way, is  exported into a .png file labeled (SOURCE_PAGECITATION_Draft1.png).
 4. Once the first image is exported, a second image using the same material is made. Using the polygonal lasso tool in photoshop any material not related to the embodied presence of the doctors is cut away and deleted, leaving a transparent version of the first image, save the embodied presence of doctors. The image is exported into a .png file labeled (SOURCE_PAGECITATION_Draft2.png).
 For the video feed, video material is layered as such (from the top down):
-``` Video Layer 8: A template for the black box that projector c will project through.
-Video Layer 7: The edited (draft2) version of the photographs.
-Video Layer 6: A layer for the animated block (a white rectangle measuring 800px by 20 px)
-Video Layer 5: A layer for the animated block (a white rectangle measuring 800px by 20 px)
-Video Layer 4: A layer for the animated block (a white rectangle measuring 800px by 20 px)
-Video Layer 3: A layer for the animated block (a white rectangle measuring 800px by 20 px)
-Video Layer 2: The original (draft1) framed version of the photograph.
-Video Layer 1: A white matte layer.
-```
+            - Video Layer 8: A template for the black box that projector c will project through.
+            - Video Layer 7: The edited (draft2) version of the photographs.
+            - Video Layer 6: A layer for the animated block (a white rectangle measuring 800px by 20 px)
+            - Video Layer 5: A layer for the animated block (a white rectangle measuring 800px by 20 px)
+            - Video Layer 4: A layer for the animated block (a white rectangle measuring 800px by 20 px)
+            - Video Layer 3: A layer for the animated block (a white rectangle measuring 800px by 20 px)
+            - Video Layer 2: The original (draft1) framed version of the photograph.
+            - Video Layer 1: A white matte layer.
+
 5. Each image used will be edited using the same parameters (with some variation based on the images sourced and aesthetic choices). The unedited (draft1) and edited (draft2) will run for up to 80 seconds, with other effects applied to the images during this time. After 10 seconds the first of up to 4 animated blocks will move from the left of the final frame until it blocks out a part of the image (the effect will make the edited draft in Video Layer 7 pop out, framing elements of the image). Each block will be placed based on aesthetic consideration, and in the case that only 2 or 3 are warranted, the image duration will be reduced by 10 seconds. After all of the blocks are animated, a final crop effect is applied to the original (draft1) image which will crop out the images over 10 seconds (leaving the white matte and the top edited (draft2) visible). After this is cropped out, the image stays static for 20 seconds before fading out. The white matte is left visible for 5 seconds before the next image is cut into the feed.
 
 ### Projector C — Rhetoric and Response
