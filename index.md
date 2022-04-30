@@ -42,6 +42,7 @@ One final note: I have attempted to short circuit the spectacular exploitation o
 3. Images will be selected on an _ad hoc_ basis from the corpus, with care to show the medical doctors and nurses more so than the patients. When an image is selected, it is flagged in the folder (for ease of citation later) and fitted as best into the projector template. (This is done by a case by basis). The image, once framed in this way, is  exported into a .png file labeled (SOURCE_PAGECITATION_Draft1.png).
 4. Once the first image is exported, a second image using the same material is made. Using the polygonal lasso tool in photoshop any material not related to the embodied presence of the doctors is cut away and deleted, leaving a transparent version of the first image, save the embodied presence of doctors. The image is exported into a .png file labeled (SOURCE_PAGECITATION_Draft2.png).
 For the video feed, video material is layered as such (from the top down):
+
             - Video Layer 8: A template for the black box that projector c will project through.
             - Video Layer 7: The edited (draft2) version of the photographs.
             - Video Layer 6: A layer for the animated block (a white rectangle measuring 800px by 20 px)
