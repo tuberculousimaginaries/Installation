@@ -71,7 +71,8 @@ Comments will also be all in lower caps (for purely aesthetic differentiation).
 The image will move 18-20 frames up every 4 seconds (depending on variation in the source), imitating a crawl.
 6. Once a text file is finished, the next file will be layered over the last to make an illusion of infinite crawl.
 
-##Acknowledgements
+## Acknowledgements
+
 This project would not be possible without considerable help from my friends, colleagues, and family. I’d like to thank my colleagues who participated in the HASTAC Scholars Program, especially Joie Meier and Tim Etzkorn. I’d also like to thank everyone at the Institute for Digital Arts and Humanities for supporting my creative growth both as part of their institutional duties, but also as co-workers and friends, Kalani Craig, Michelle Dalmau, Vanessa Elias, Ella Robinson, Pouyan Shahidi, Maks Szostalo, and Sydney Stusman. I’d also like to thank colleagues in the Media School who have made this work possible—specifically to Mike Aaronson who has been a steadfast friend throughout the last few years. To my dissertation committee—Stephanie DeBoer, Joan Hawkins, Rachel Plotnick and Bret Rothstein—most of which were probably surprised by the materialization of this project, because I should have spent the last two months writing. Finally, I want to thank my mother and father for their never ending support for my creative endeavors (film school was a bust, and yet we soldier forward). Most of all, I want to thank Lauren, who has weathered my sleepless nights, ruminating on the project, who has nodded politely while I pontificate about some esoteric and inconsequential aspect of the design, and who has showered me with love and support as I continue to take on projects that are too big for one person to handle. I love you Lauren, and thank you for always being there.
 
 ## Secondary Sources Cited
