@@ -72,6 +72,36 @@ The image will move 18-20 frames up every 4 seconds (depending on variation in t
 6. Once a text file is finished, the next file will be layered over the last to make an illusion of infinite crawl.
 
 ## Works Cited
+_Annual Medical Report of the Trudeau Sanatorium and the Thirteenth Medical Supplement for the Year Ending October 31, 1917_. 1917. The Trudeau Sanatorium. [Available on HathiTrust](https://hdl.handle.net/2027/mdp.39015069772179)
+Atkinson, Charles E. 1922. _Lessons on Tuberculosis and Consumption for the Household_. London & New York: Funk & Wagnalls Company. [Available on HathiTrust](https://hdl.handle.net/2027/uc2.ark:/13960/t00z7f681)
+Baldwin, Edward R., Lawrason Brown, M. J. Rosenau, H. R. M. Landis, Henry Sewall, Paul A. Lewis, Borden S. Veeder, and Allen K. Krause, eds. 1917. _The American Review of Tuberculosis_. Vol. 1. Baltimore: National Association for the Study and Prevention of Tuberculosis. [Available on HathiTrust](https://hdl.handle.net/2027/hvd.32044089508295)
+———, eds. 1919. _The American Review of Tuberculosis_. Vol. 3. Baltimore: National Association for the Study and Prevention of Tuberculosis. [Available on HathiTrust](https://hdl.handle.net/2027/hvd.32044015524069)
+———, eds. 1920. _The American Review of Tuberculosis_. Vol. 4. Baltimore: National Association for the Study and Prevention of Tuberculosis. [Available on HathiTrust](https://hdl.handle.net/2027/mdp.39015072923637)
+———, eds. 1921. _The American Review of Tuberculosis_. Vol. 5. Baltimore: National Association for the Study and Prevention of Tuberculosis. [Available on HathiTrust](https://hdl.handle.net/2027/mdp.39015072923645)
+Baldwin, Edward R., Lawrason Brown, M. J. Rosenau, Henry Sewall, Paul A. Lewis, Borden S. Veeder, and Allen K. Krause, eds. 1918. _The American Review of Tuberculosis_. Vol. 2. Baltimore: National Association for the Study and Prevention of Tuberculosis. [Available on HathiTrust](https://hdl.handle.net/2027/hvd.32044089508287)
+Carmody, T. E. 1909. _The Differential Diagnosis of Lesions of the Mouth Due to Carcinoma, Sarcoma, Syphilis and Tuberculosis_. [Available on HathiTrust](https://hdl.handle.net/2027/mdp.39015055672672)
+_City of Chicago Municipal Tuberculosis Sanatarium Monthly Bulletin_. 1917. Vol. 1–4. City of Chicago Municipal Tuberculosis Sanitarium. [Available on HathiTrust](https://hdl.handle.net/2027/chi.34739009)
+———. 1925. Vol. 5–6. City of Chicago Municipal Tuberculosis Sanitarium. [Available on HathiTrust](https://hdl.handle.net/2027/chi.41675716)
+Crofton, W. M. 1917. _Pulmonary Tuberculosis: Its Diagnosis, Prevention and Treatment_. Philadelphia: P. Blakiston’s Son & Co. [Available on HathiTrust](https://hdl.handle.net/2027/chi.087018856)
+Densmore, Emmet. 1899. _Consumption and Chronic Diseases: A Hygienic Cure, At Patient’s Home of Incipient and Advanced Cases_. London: Sonnenschein & Co. [Available on HathiTrust](https://hdl.handle.net/2027/mdp.39015076927014)
+Fishberg, Maurice. 1916. _Pulmonary Tuberculosis_. Philadelphia & New York: Lea & Febiger. [Available on HathiTrust](https://hdl.handle.net/2027/nnc2.ark:/13960/t21c2rt3h)
+Gravesen, J. 1925. _Surgical Treatment of Pulmonary and Pleural Tuberculosis. New York: William Wood & Co. [Available on HathiTrust](https://hdl.handle.net/2027/mdp.39015003797928)
+Hall, Freeman. 1912. Tuberculosis and Allied Diseases: An Account of Their Origin and Treatment from the Earliest Times up to and Including the Present_. Kalamazoo: Yonkerman Company. [Available on HathiTrust](https://hdl.handle.net/2027/mdp.39015076925893)
+Hamilton, James A. 1925. _Pneumoconiosis—Three Cases Two of Silicosis, and One of Anthracosis with Tuberculosis Superinduced. Complete Histories with Temperature Charts, X-Ray Pictures and Colored Plates of Lungs_. State of New York Department of Labor Bulletin. The Division of Industrial Hygiene. [Available on HathiTrust](https://hdl.handle.net/2027/uc1.$b150742)
+Hawes, John B. 1913. _Early Pulmonary Tuberculosis: Diagnosis, Prognosis and Treatment_. New York: William Wood and Company. [Available on HathiTrust](https://hdl.handle.net/2027/hvd.hc4qqp)
+Krause, Allen K, J. Burns Amberson, H. J. Corper, Edward R Baldwin, Lawrason Brown, H. R. M. Landis, and Paul A. Lewis, eds. 1924. _The American Review of Tuberculosis_. Vol. 10. Baltimore: National Association for the Study and Prevention of Tuberculosis. [Available on HathiTrust](https://hdl.handle.net/2027/uva.3470099179)
+———, eds. 1925. _The American Review of Tuberculosis_. Vol. 11. Baltimore: National Association for the Study and Prevention of Tuberculosis. [Available on HathiTrust](https://hdl.handle.net/2027/uva.3470099180)
+Krause, Allen K., Edward R. Baldwin, Lawrason Brown, H. J. Corper, H. R. M. Landis, Henry Sewall, Paul A. Lewis, and J. Burnes Aberson, eds. 1923. _The American Review of Tuberculosis_. Vol. 8. Baltimore: National Association for the Study and Prevention of Tuberculosis. [Available on HathiTrust](https://hdl.handle.net/2027/uva.3470099176)
+Lockard, Lorenzo B. 1909. _Tuberculosis of the Nose and Throat_. St. Louis: C. V. Mosby Medical Book & Publishing Co. [Available on HathiTrust](https://hdl.handle.net/2027/loc.ark:/13960/t9b57qw5h)
+Maylard, A. Ernest. 1908. _Abdominal Tuberculosis_. London: J. & A. Churchill. [Available on HathiTrust](https://hdl.handle.net/2027/uc1.b5193577)
+Mays, Thomas J. 1901. _Pulmonary Consumption, Pneumonia, and Allied Diseases of the Lungs; Their Etiology, Pathology and Treatment, with a Chapter on Physical Diagnosis_. New York: E. B. Treat & Company. [Available on HathiTrust](https://hdl.handle.net/2027/osu.32435010290831)
+Otis, Edward O. 1920. _Pulmonary Tuberculosis: A Handbook for Students and Practitioners_. Boston: W. M. Leonard. [Available on HathiTrust](https://hdl.handle.net/2027/loc.ark:/13960/t0ft9qr7f)
+Pottenger, F. M. 1908. _The Diagnosis and Treatment of Pulmonary Tuberculosis_. New York: William Wood and Company. [Available on HathiTrust](https://hdl.handle.net/2027/chi.72633380)
+———. 1917. _Clinical Tuberculosis_. St. Louis: C. V. Mosby Company. [Available on HathiTrust](https://hdl.handle.net/2027/chi.103303076) [Volume 2 on HathiTrust](https://hdl.handle.net/2027/chi.103303131)
+_Report of the Henry Phipps Institute for the Study, Treatment, and Prevention of Tuberculosis_. 1906. Vol. 2. Philadelphia: Henry Phipps Institute. [Available on HathiTrust](https://hdl.handle.net/2027/coo.31924056301439)
+Riley, W. H. 1897. _Report of Fifty Cases Illustrating the Successful Treatment of Pulmonary Tuberculosis_. Modern Medicine and Bacteriology Review. [Available on HathiTrust](https://hdl.handle.net/2027/mdp.39015076877003)
+Senn, N. 1893. _Tuberculosis of Bones and Joints_. Philadelphia & London: The F. A. Davis Co. [Available on HathiTrust](https://hdl.handle.net/2027/mdp.39015045610717)
+Walsham, Hugh. 1903. _The Channels of Infection in Tuberculosis: Together with the Conditions, Original or Acquired, Which Render the Different Tissues Vulnerable_. New York: William Wood and Company. [Available on HathiTrust](https://hdl.handle.net/2027/uc1.b5193221)
 
 
 You can use the [editor on GitHub](https://github.com/tuberculousimaginaries/Installation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
