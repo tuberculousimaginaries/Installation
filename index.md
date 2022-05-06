@@ -71,7 +71,57 @@ Comments will also be all in lower caps (for purely aesthetic differentiation).
 The image will move 18-20 frames up every 4 seconds (depending on variation in the source), imitating a crawl.
 6. Once a text file is finished, the next file will be layered over the last to make an illusion of infinite crawl.
 
-## Works Cited
+## Secondary Sources Cited
+Alberti, Samuel J. M. M. 2011. _Morbid Curiosities: Medical Museums in Nineteenth-Century Britain_. Oxford: Oxford University Press.
+
+Blakely, Robert L., and Judith M. Harrington, eds. 1997. _Bones in the Basement: Postmortem Racism in Nineteenth-Century Medical Training_. Washington, D.C.: Smithsonian Institution Press.
+
+Cartwright, Lisa. 1995. _Screening the Body: Tracing Medicine’s Visual Culture_. Minneapolis: University of Minnesota Press.
+
+Curtis, Scott. 2015. _The Shape of Spectatorship: Art, Science, and Early Cinema in Germany_. New York: Columbia University Press.
+
+———. 2016. “Photography and Medical Observation.” In _The Educated Eye_, edited by Nancy Anderson and Michael R. Dietrich, 68–93. Hanover: Dartmoth College Press.
+
+Dijck, José van. 2005. _The Transparent Body: A Cultural Analysis of Medical Imaging_. Seattle & London: University of Washington Press.
+
+Foucault, Michel. 1994. _The Birth of the Clinic: An Archeology of Medical Perception_. Translated by A. M. Sheridan Smith. New York: Vintage Books.
+
+———. 1995. _Discipline and Punish: The Birth of the Prison_. New York: Vintage Books.
+
+Hallam, Elizabeth. 2016. _Anatomy Museum: Death and the Body Displayed_. London: Reaktion Books.
+
+Knorr Cetina, Karin. 1999. _Epistemic Cultures: How the Sciences Make Knowledge_. Cambridge: Harvard University Press.
+
+Latour, Bruno. 1993. _We Have Never Been Modern_. Translated by Catherine Porter. Cambridge: Harvard University Press.
+
+Latour, Bruno, and Steve Woolgar. 1986. _Laboratory Life: The Construction of Scientific Facts_. 2nd ed. Princeton: Princeton University Press.
+
+Liboiron, Max. 2021. _Pollution Is Colonialism_. Durham & London: Duke University Press.
+
+Mitchell, Robin. 2020. _Vénus Noire: Black Women and Colonial Fantasies in Nineteenth-Century France_. Athens: The University of Georgia Press.
+
+Purcell, Sean. 2022. “Dermographic Opacities.” _Epoiesen_. [Link to Article](http://dx.doi.org/10.22215/epoiesen/2022.1)
+
+Redman, Samuel J. 2016. _Bone Rooms: From Scientific Racism to Human Prehistory in Museums_. Cambridge: Harvard Unievrsity Press.
+
+Richardson, Ruth. 1987. _Death, Dissection and the Destitute_. Chicago: The University of Chicago Press.
+
+Sappol, Michael. 2002. _A Traffic of Dead Bodies: Anatomy and Embodied Social Identity in Nineteenth-Century America_. Princeton: Princeton University Press.
+
+Sontag, Susan. 1990. _Illness as Metaphor and AIDS and Its Metaphors_. New York: Farrar, Straus and Giroux.
+
+———. 2003. _Regarding the Pain of Others_. New York: Farrar, Straus and Giroux.
+
+Troyer, John. 2020. _Technologies of the Human Corpse_. Cambridge: The MIT Press.
+
+Waldby, Catherine. 2000. _The Visible Human Project: Informatic Bodies and Posthuman Medicine_. London & New York: Routledge.
+
+Warner, John Harley. 2014. “The Aesethetic Grounding Of Modern Medicine.” _Bulletin of the History of Medicine_ 88 (1): 1–47.
+
+Washington, Harriet A. 2006. _Medical Apartheid: The Dark History of Medical Experimentation on Black American from Colonial Times to the Present_. New York: Harlem Moon & Broadway Books.
+
+
+## Primary Sources Cited
 _Annual Medical Report of the Trudeau Sanatorium and the Thirteenth Medical Supplement for the Year Ending October 31, 1917_. 1917. The Trudeau Sanatorium. [Available on HathiTrust](https://hdl.handle.net/2027/mdp.39015069772179)
 
 Atkinson, Charles E. 1922. _Lessons on Tuberculosis and Consumption for the Household_. London & New York: Funk & Wagnalls Company. [Available on HathiTrust](https://hdl.handle.net/2027/uc2.ark:/13960/t00z7f681)
@@ -131,39 +181,3 @@ Senn, N. 1893. _Tuberculosis of Bones and Joints_. Philadelphia & London: The F.
 
 Walsham, Hugh. 1903. _The Channels of Infection in Tuberculosis: Together with the Conditions, Original or Acquired, Which Render the Different Tissues Vulnerable_. New York: William Wood and Company. [Available on HathiTrust](https://hdl.handle.net/2027/uc1.b5193221)
 
-
-You can use the [editor on GitHub](https://github.com/tuberculousimaginaries/Installation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tuberculousimaginaries/Installation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
