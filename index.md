@@ -12,6 +12,7 @@ Each projector displays a different kind of image associated with the practice o
 ![Still from Projector A](/images/ProjA_Screenshot1.png)
 ![Still from Projector A](/images/ProjA_Screenshot2.png)
 ![Still from Projector A](/images/ProjA_Screenshot3.png)
+![Still from Projector A](/images/ProjA_Screenshot4.png)
 
 My intent for this installation is not to disrupt or disprove modern medicine’s epistemics. The public good provided by medicine is significant—especially as we claw our way out of a global pandemic. My interest in this project (and with my more traditional research) is to understand how medicine produces and is produced by certain classes of people: how medicine inscribes and describes what is sickness, and how this practice reinforces certain prejudices through the practices of scientific racism and universalism.
 
