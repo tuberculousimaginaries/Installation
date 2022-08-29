@@ -7,7 +7,7 @@ _Tuberculous Imaginaries_ is a response to a kind of medical image perpetuated, 
 
 _Tuberculous Imaginaries_ responds to this history by reconceiving how the primary artifact can be engaged by a public audience. Seeing museological practice as more than an enshrinement of unique artifacts and dominant histories, I have chosen to draw on various different kinds of discursive materials associated with tuberculosis research at the turn of the twentieth century. 
 
-![Still from Projector A](/images/TI_GIFForSite_1.gif)
+![Example from Projector B](/images/TI_GIFForSite_1.gif)
 
 Each projector displays a different kind of image associated with the practice of normal science. Projector A shows pathological illustrations and clinical photographs. Projector B is made up of images of laboratories, pharmacies, and patient care; each image in this feed shows the body of medical researchers and practitioners, and care has been made to single out the doctors, nuses, and scientists, to make them the focus (sometimes at the expense of the image of the patient). Projector C consists of text generated with optical character recognition (OCR) of sections from the books that were excerpted for Projectors A & B's video feeds. Rather than enshrine these artifacts as authoritative, concrete specimens, I have taken care to respond to and reflect on the rhetoric employed by medical professionals in their discourses between other scientists and the public. I have outlined the protocol for each video feed below, following a call for codifying particular modes of critique by Max Liboiron.
 
